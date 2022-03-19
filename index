@@ -1,0 +1,8 @@
+local myName = "Pxce"
+
+if myName == "Pxce" then
+    print("My name is " + myName)
+
+else
+    print("My name is not " + myName)
+end
